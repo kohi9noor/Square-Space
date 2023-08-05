@@ -1,7 +1,7 @@
 ---
 ## Square-space
 
-Description:
+### Description
 Welcome to my mesmerizing animation website created using SquareSpace, GSAP (GreenSock Animation Platform), and a blend of HTML, CSS, and JavaScript! Dive into a world of dynamic visuals and interactive experiences that come to life with every click and scroll.
 
 🎨 **Immersive Visuals:** Embark on a visual journey like never before. Watch in awe as intricate animations seamlessly blend with stunning design elements, creating an immersive experience that captivates your senses.
@@ -16,7 +16,7 @@ Welcome to my mesmerizing animation website created using SquareSpace, GSAP (Gre
 
 Explore the repository to uncover the synergy of design and technology that fuels this animation wonderland. Witness firsthand the art of bringing static web elements to life, and let your creativity run wild with inspiration from this unique creation.
 
-Visit the live website: [https://codepen.io/kohi9noor/full/dyQreKm]
+#### Visit the live website [https://codepen.io/kohi9noor/full/dyQreKm]
 
 ---
 Feel free to customize this description to align with your specific website's features, design, and personality. Best of luck with your animation website project!
