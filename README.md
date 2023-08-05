@@ -19,4 +19,3 @@ Explore the repository to uncover the synergy of design and technology that fuel
 #### Visit the live website [https://codepen.io/kohi9noor/full/dyQreKm]
 
 ---
-Feel free to customize this description to align with your specific website's features, design, and personality. Best of luck with your animation website project!
