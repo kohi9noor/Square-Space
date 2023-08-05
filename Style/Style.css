@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Manrope', sans-serif;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+#nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+    /* background-color: red; */
+    text-transform: uppercase;
+    padding: 0 20px;
+}
+
+#nav img{
+    height: 60px;
+}
+
+#nav #part1{
+    display: flex;
+    gap: 20px;
+    color: #fff;
+}
+
+#nav #part2{
+    display: flex;
+    margin-right: 25px;
+    gap: 25px;
+    align-items: center;
+}
+
+#nav button{
+    padding: 16px 13px;
+    color: black;
+    background-color: #fff;
+    font-weight: 700;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+#nav #part2 h4{
+    color: #fff;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-size: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 5px;
+}
+
+span{
+    background-color: brown;
+    font-size: 45px;
+    padding: 15px 17px;
+    align-items: center;
+    border-radius: 50px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+#main h1:nth-child(3){
+    /* color: red; */
+    margin-top: 40px;
+}
+
+#left-img{
+    height: 200px;
+    position: absolute;
+    top: 16%;
+    border-radius: 30px;
+    margin-left: 7%;
+}
+
+#right-img{
+    height: 250px;
+    position: absolute;
+    right: 5%;
+    bottom: 4%;
+    border-radius: 50px;
+}
+
+h3{
+    color:#fff;
+}
+
+main p{
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+    margin-top: 10px;
+    font-weight: 400;
+}
